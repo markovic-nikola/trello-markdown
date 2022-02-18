@@ -1,0 +1,9 @@
+#nm_preview_markdown_description, #nm_preview_markdown_comment {
+	background-color: white;
+	padding: 10px 10px 0 10px;
+	border: 1.5px dashed #dddee1;
+}
+
+#nm_preview_markdown_comment {
+	background-color: #f9f9f9;
+}
